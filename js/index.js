@@ -23,7 +23,6 @@ const contenido = () => {
                   </li>
               </ul>
               </div>
-              <a href="https://drive.google.com/file/d/1CsdvARwbZSx741Iyw1asdQk78aKeMITY/view?usp=sharing" target="_blank" class="btn">Descargar CV</a>
             </div>
       </div>
       
